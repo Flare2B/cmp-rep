@@ -7,4 +7,5 @@ void main()
 		cout << "Valore " << i + 1 << ": ";
 		cout << i;
 	}
+	system("PAUSE");
 }
